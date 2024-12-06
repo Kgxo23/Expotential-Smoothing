@@ -1,0 +1,18 @@
+{
+  "name": "Exponential-Smoothing",
+  "version": "1.0.0",
+  "description": "A Node.js application for exponential smoothing forecasts",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "author": "Kgxo",
+  "license": "MIT"
+}
